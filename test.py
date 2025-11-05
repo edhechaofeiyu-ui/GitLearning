@@ -7,4 +7,4 @@ Created on Wed Nov  5 10:06:19 2025
 """
 
 print("Hello, Git!")
-print("这是主分支的修改")  # 新增行（与分支冲突）
+print("这是最终的修改")  # 新增行
