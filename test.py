@@ -7,5 +7,4 @@ Created on Wed Nov  5 10:06:19 2025
 """
 
 print("Hello, Git!")
-print("这是第二次修改")
-print("这是第三次修改")
+print("这是分支的修改")  # 新增行
